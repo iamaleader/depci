@@ -1,6 +1,7 @@
 {
   "name": "dep",
   "version": "0.1.0",
+  "homepage": "https://iamaleader.github.io/depci",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
